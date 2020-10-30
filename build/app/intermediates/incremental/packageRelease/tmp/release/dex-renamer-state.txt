@@ -1,0 +1,4 @@
+#Fri Oct 30 17:02:44 COT 2020
+base.0=C\:\\Users\\Indira\\workspace\\ihc\\numerologia\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
